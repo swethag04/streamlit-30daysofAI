@@ -5,7 +5,7 @@
 import streamlit as st
 
 st.title("30 days of AI")
-st.header("Day 1 - Connect to Snowflak")
+st.header("Day 1 - Connect to Snowflake")
 
 # Connect to Snowflake
 try:
